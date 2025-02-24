@@ -1,0 +1,21 @@
+
+# Ignore build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Ignore user-specific files
+*.user
+*.suo
+*.vs
+
+# Ignore model cache
+MLNET/
+model.zip
+
+# Ignore IDE settings
+.vscode/
+.idea/
+*.sln.cache
